@@ -1,7 +1,7 @@
 (_This is made for Windows 10_)   
 (_Last updated in 11/19/2022_)
 # Downloading Terminal
-![Get Terminal](Get-Terminal.gif)
+![Get Terminal](Im-That-IT-Friend/Optimizations/GifsAndImages/Get-Terminal.gif)
 1. Open up the Microsoft store
 2. Got to the search bar at the top of the screen.
 3. Search: `Windows Terminal`
