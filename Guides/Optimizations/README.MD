@@ -1,5 +1,5 @@
 (_This is made for Windows 10_)   
-(_Last updated in 11/19/2022_)
+(_Last updated in 11/20/2022_)
 # Downloading Terminal
 ![Get-Terminal](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Optimizations/GifsAndImages/Get-Terminal.gif)
 1. Open up the Microsoft store
