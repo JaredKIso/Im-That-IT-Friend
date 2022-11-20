@@ -19,7 +19,7 @@
 6. "Terminal" should now be installed! :)
 ---
 # Running the Optimization Script
-![LaunchTerminalAndApp](inkdrop://file:T8GrJ1DdL)
+![LaunchTerminalAndApp](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Optimizations/GifsAndImages/LaunchTerminalAndApp.gif)
 1. Open Terminal in your preferred method. Whichever method you use please run it is "administrator".
     - Ways to run "Terminal".
       1. Hit your `⊞ Win` key on your keyboard, then type "**Terminal**".
@@ -30,24 +30,25 @@
             - Click "**Run as Administrator**".
       3. If you have another preferred method you can use that.   
 ---
-1. Once you do the above steps in using whichever method you prefer, a new window will pop up that looks similar to:![Terminal](inkdrop://file:FRCTjfGjo)
+1. Once you do the above steps in using whichever method you prefer, a new window will pop up that looks similar to:
+![Terminal](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Optimizations/GifsAndImages/Terminal.png)
 (Mine may look a little different due to some personal customizations.)
 2. Copy this code:
       - `iwr -useb https://christitus.com/win | iex`   
 3. After that code is copied, click back into that new Terminal window.
 4. Right click anywhere in the window to paste.
-![PastingCode](inkdrop://file:GfMRNzzbR)
+![PastingCode](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Optimizations/GifsAndImages/PastingCode.gif)
 5. After it is pasted, just press your "**Enter**" key on your keyboard to execute the command/code.
 ---
 Once this is done a new window will appear:
-![NewWindowLaunching](inkdrop://file:_-Tjp1wbp)
+![NewWindowLaunching](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Optimizations/GifsAndImages/NewWindowLaunching.gif)
 6. In this new window it is a fairly basic UI, but I will write down the basic steps!   
 7. Each tab is dedicated to doing something different, we will go from left to right of the tabs.
   - ##### Install Tab
     - This tab is for installing the basic program that you want on a new system or your current one. It can also be used to update any of the programs that you have installed from there. Once you have the apps selected that you want, click "**Start Install**"
   - ##### Tweaks Tab
     - There are a lot of options here, but if you do not know what you are doing just use the "**Recommended Selections:**" at the top of the screen.
-    ![TweaksTab](inkdrop://file:TMu8Dvv5I)
+    ![TweaksTab](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Optimizations/GifsAndImages/TweaksTab.png)
     - Under "**Dark Theme**" located near the bottom right, click "**Enable**".
     - Under **"Performance Plans**" located near the bottom right, click "**Add Ultimate Performance Profile**".
     - Keep "**DNS**" as "**Defaul**t"
@@ -67,7 +68,7 @@ Once this is done a new window will appear:
 We are going to go through some additional options to further optimize your windows! You can continue with these or if you are happy with just running the script then thank you for your time :)! But, for those who want to do a few more tweaks then I am here for you!
 
 ### Apps Settings:
-![Going To Apps](inkdrop://file:H77pNYgwU)
+![Going To Apps](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Optimizations/GifsAndImages/Going-To-Apps.gif)
 1. Click the windows key on the bottom of your screen or the `⊞ Win` on your keyboard.
 2. Type "**Settings**" which will open a new window.
 3. In this new window click on the button labeled "**Apps**".
@@ -79,7 +80,8 @@ We are going to go through some additional options to further optimize your wind
 These next few steps are personal preference so it is optional for you!
 
 1. Since you removed some of the apps, your start menu (When you click the windows icon or when you click your windows key, the window that pops up is called your "**Start Menu**".) will be slightly messed up from some blank spaces
-2. When you are in your start menu, right click the categories or all the apps on the right side (I forgot the name of the categories since I do not have mine.) and click on "remove".![GetRidOfAppsOnRIght](inkdrop://file:4JNnoSUmN)
+2. When you are in your start menu, right click the categories or all the apps on the right side (I forgot the name of the categories since I do not have mine.) and click on "remove".
+![GetRidOfAppsOnRIght](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Optimizations/GifsAndImages/GetRidOfAppsOnRIght.png)
 3. After, your start menu should be a lot slimmer and sleeker than it was before! If it is not, make sure to just re-open the start menu.
 
 ### Disabling Startup Apps
@@ -87,7 +89,7 @@ This section is just to remove apps that startup when your computer starts up.
 1. Go into your task manager
       - Right click your windows icon and click "**Task Manager**"
 2. When it opens go to the "**Startup**" tab
-![StartupApps](inkdrop://file:-xe-gKSVn)
+![StartupApps](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Optimizations/GifsAndImages/StartupApps.gif)
 3. Go through the apps here, and any that you do not need to startup right away when you start your computer. Right click it and click on "**Disable**" (If you do not know what the app is, just leave it alone).
 4. All done, now restart your computer and things should feel a lot more smooth and faster than before.
 
