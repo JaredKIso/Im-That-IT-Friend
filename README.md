@@ -10,7 +10,7 @@ I have been in IT all of my life so far, even though it is a fairly short one. I
 
 Because of this detrimental mistake, I have become the tech person in my friend group and in my family. This is not even just my house hold family, it ranges to my full bloodline it feels like sometimes. 
 
-Do not get me wrong, we care and love for our friends and family and want to help them out. But after a certain amount of time helping people out and sitting there as they do not know how to get to the "Settings" window and you are just like...
+Do not get me wrong, we care and love for our friends and family and want to help them out. But after a certain amount of time helping people out and sitting there as they do not know how to get to the "Settings" window and you are just like...   
 ![ITMigrainPain](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Home-Page-References/Gif-And-Images/ITMigrainPain.gif)   
 That is what this repository is for!
 * * *
