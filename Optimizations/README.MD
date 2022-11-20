@@ -80,7 +80,7 @@ We are going to go through some additional options to further optimize your wind
 These next few steps are personal preference so it is optional for you!
 
 1. Since you removed some of the apps, your start menu (When you click the windows icon or when you click your windows key, the window that pops up is called your "**Start Menu**".) will be slightly messed up from some blank spaces
-2. When you are in your start menu, right click the categories or all the apps on the right side (I forgot the name of the categories since I do not have mine.) and click on "remove".
+2. When you are in your start menu, right click the categories or all the apps on the right side (I forgot the name of the categories since I do not have mine.) and click on "remove".   
 ![GetRidOfAppsOnRIght](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Optimizations/GifsAndImages/GetRidOfAppsOnRIght.png)
 3. After, your start menu should be a lot slimmer and sleeker than it was before! If it is not, make sure to just re-open the start menu.
 
