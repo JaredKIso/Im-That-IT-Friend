@@ -151,7 +151,7 @@ That is all of the basic settings! You should now be able to go through this UI 
   - **Video guide:** [Raw Accel: Beginners Guide - YouTube](https://www.youtube.com/watch?v=drX3QbLNd3I)
 - [500 hours of mouse accel, was it worth it? - YouTube](https://www.youtube.com/watch?v=T44wCJcIaJs)
   - **Made by:** Viscose
-  - **Their discord:** https://discord.gg/EyynB9AYUE
+  - **Their Discord:** https://discord.gg/EyynB9AYUE
   - **Their Twitch:** https://www.twitch.tv/viscoseoce
 - [Radiants Think Raw Accel Is INSTANT GOOD AIM - YouTube](https://www.youtube.com/watch?v=RRamrinknBY&list=PLRB9r34UOOS8gMBZfvKihCZmIkQCJqP9M)
   - **Made by:** West Proter
