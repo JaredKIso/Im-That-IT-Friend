@@ -13,7 +13,7 @@ Hello welcome to this guide that is more of a specific guide for people who want
 There is a lot of hate around mouse acceleration, one of the biggest reasons it is hated is that it can not be used to "Build Muscle Memory" and that it will cause inconsistency in your aim. I am not going to go super in depth on the down sides or the positives of mouse accel because there are plenty of videos about that already which I will link at the bottom of this guide.
 
 One of the biggest reasons there is a lot of hate around this topic is the fact that the windows accel graph is so bad, and I will attach an image below to show you.   
-![Windows10AccelGraph](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/Windows10AccelGraph.png)   
+![Windows10AccelGraph](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/Windows10AccelGraph.png)   
 Before I explain what this graph means, let me talk about the basics of mouse acceleration.   
 
 Mouse acceleration is in short term, a way for your mouse sensitivity to increase the faster you move. So for example if you are flicking in a game it will increase your sensitivity while you flick and then bring it back down to a low sense when you how fast you moves slow down.   
@@ -23,7 +23,7 @@ The reason Windows acceleration is so hated is because there really is no consis
 This is about how technical I will get for this part, as again I will link for resources where multiple people have spoke about this before! :)
 * * *
 ## RawAccel
-![RawAccel](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/RawAccel.png) 
+![RawAccel](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/RawAccel.png)   
 This is RawAccel, and this is what the guide is mainly going to be orientated around. In short this is a very well open source program for mouse acceleration, which simplifies (sorta) and streamlines mouse acceleration allowing you to make your own acceleration graph.
 
 The X and Y are the same as before but just for easier reference:
@@ -32,12 +32,12 @@ The X and Y are the same as before but just for easier reference:
 
 This is my custom acceleration graph as I have made and tweaked and I am still tweaking it to my liking. But for example if you watch the red dot on this gif, it represents my "last mouse move". The faster I move my mouse the farther right the dot goes which in essence increased the amount of sensitivity I am having.   
 
-![Example](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/Example.gif) 
+![Example](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/Example.gif)   
 * * *
 ## The End Goal
 The goal of this guide is to be able to get you the basic understanding of all of the settings on the left side:   
 
-![clipboard.png](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/clipboard.png)   
+![clipboard.png](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/clipboard.png)   
 (**These are the settings**)   
 
 * * *
@@ -50,7 +50,7 @@ To install RawAccel, you are going to want to go to your browser of choice (Fire
       - Click the windows icon on the bottom left (normally unless moved) and then type in the browser you want
       - Double click the Icon that is on your desktop or taskbar (Taskbar is the bar at the bottom of your screen.)   
 2. Go to the top bar at the browser or just in the search box and Type "**RawAccel**"   
-![FindingRaw](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/FindingRaw.gif)
+![FindingRaw](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/FindingRaw.gif)
 3. Once you have searched "**RawAccel**" it should be to top link that says "**Github**", you can also you the gif above as reference and I will link it here as well: [rawaccel/Guide.md · GitHub](https://github.com/a1xd/rawaccel/blob/master/doc/Guide.md)   
 4. In this guide they do a fairly good job at explaining the install process and I will not go through what they have written down in the guide, just make sure you install the prerequisites.   
       - Prerequisites:
@@ -61,14 +61,14 @@ To install RawAccel, you are going to want to go to your browser of choice (Fire
 5. Once you have downloaded the prerequisites, download the *.zip* file that in on the releases page of that link from above (It is also mentioned in the guide on the supplied link).
 6. Double click the *.zip* you just downloaded to open it, then just drag and drop the contents to your desktop (or your desired location to store the files (I store it in my documents folder.))
 7. Now open up the files you just extracted (the files you drag and dropped out of the *.zip*) and there will be a few files there. Click on the file called "**Installer.exe**" or just "**Installer**". This gif will show what file:   
-![Installing](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/Installing.gif)  
+![Installing](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/Installing.gif)  
 
 8. Now after you have gone through the installation process it will ask you to restart you computer which you must do.
 9. To launch RawAccel all you have to do now, is just go back to the folder that has the contents of the *.zip* you downloaded earlier and double click the filled called "**Rawaccel.exe**" or "**Rawaccel**".
-![Mouse Accel](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/Mouse%20Accel.gif) 
+![Mouse Accel](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/MouseAccel.gif) 
 ## RawAccel UI
 Good job! You have successfully installed / started up the program "**RawAccel**"!
-![slow-clap-clap](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/slow-clap-clap.gif)  
+![slow-clap-clap](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/slow-clap-clap.gif)  
 
 I know it has been quite technical so far, so if you want you can take a break and then come back later as this is a great stopping point. But if you would prefer you can just click go here:[ Cute Cats](https://letmegooglethat.com/?q=Cute+baby+cats) for a quick cleanser!   
 
@@ -88,7 +88,7 @@ Okay that is enough lets get this done!
       - Set this to **1000** (or your mouse poll rate if you know it)
     - Charts -> Scale by mouse settings -> Re-scale by above:
       - Just click "**Re-scale by above**"   
-![Settings](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/Settings.gif)  
+![Settings](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/Settings.gif)  
 
 2. You will more than likely only see one graph which is the sensitivity graph, to see the other ones do the following:
       - Go to Charts -> and click "**Show Velocity & Gain**"
@@ -105,9 +105,9 @@ We are just going to start from top to bottom for these settings and I will try 
 Before we start, we need to make sure you are using the right graph type. There are a lot of them there and you can look it up on the RawAccels github documentation. But the one we will be using and the one I use is "**Linear**".
 ##### Prerequisites:
 1. To enable linear, on the left side panel where all the settings are there will be drop down box under the "**Rotation**" option.   
-![GraphType](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/GraphType.gif) 
+![GraphType](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/GraphType.gif) 
 2. Underneath the option for the graph type, there is a box there that says "**Gain**". From my understand of this, it will make your mouse acceleration have a smoother incline but take a little longer. I will show you what it does here:   
-![GainBox](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/GainBox.gif)  
+![GainBox](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/GainBox.gif)  
 (As you can see it smooths out the acceleration speed, but I do not prefer this and I like it better with it off. But feel free to change this if you want!)
 3. Set your DPI on your mouse to **1600** (This will be in your mouses application or just on your mouse use the DPI switch button).
     - The reason behind this is it will increase how often your mouse updates. In short term, better accuracy. (I know this is very broad for people who do know about this, but I am not trying to get super technical right now.)
@@ -123,7 +123,7 @@ Now that the prerequisites are out of the way I am just going to go down the set
 3. **Rotation:**
     - Some mice have an issue where if you move it from left to right on your mouse pad, it will not be a straight line. This is due to the fact that the sensor (I think) is slightly rotated/off angled on accident which causes the non straight line.
       - To test this just open up the "**Paint**" app on your computer, click the pencil tool and just hold left click and move your mouse from right to left and left to right with your eyes closed. It will look something like this:   
-      ![Rotation](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/Rotation.gif)  
+      ![Rotation](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/MiscGuides/RawAccelGuide/Sources/Media/Rotation.gif)  
       (General straight lines are what you want, if their are huge curves this is where this setting helps.)
       - A lot of people use RawAccel just for this setting. As what this setting does is fix the rotation through software so if their lines were not straight in the paint example, the will adjust it through RawAccel to make it straight!   
 4. **Cap Type:**
