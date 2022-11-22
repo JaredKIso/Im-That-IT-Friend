@@ -146,7 +146,7 @@ That is all of the basic settings! You should now be able to go through this UI 
 * * *
 ## Resources/Quick Links:
 - [RawAccel Github](https://github.com/a1xd/rawaccel)
-- [Raw Accel Curve Helper](https://docs.google.com/spreadsheets/d/1XGlMuCjrKo3IqWAtYpW3bug6g4FfXFFlOI99aSHKtGA/edit#gid=1574490322) (File > Make a Copy, of this)
+- [Raw Accel Curve Helper](https://docs.google.com/spreadsheets/d/1IMM_-y6NId_CROGaGYIWO2l61uLY0kJYYdZEIXIEgW0/edit#gid=1574490322) (File > Make a Copy, of this)
   - **Made by:** itsHappyGoLucky
   - **Video guide:** [Raw Accel: Beginners Guide - YouTube](https://www.youtube.com/watch?v=drX3QbLNd3I)
 - [500 hours of mouse accel, was it worth it? - YouTube](https://www.youtube.com/watch?v=T44wCJcIaJs)
