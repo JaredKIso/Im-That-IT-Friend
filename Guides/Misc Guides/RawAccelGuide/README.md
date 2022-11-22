@@ -13,7 +13,7 @@ Hello welcome to this guide that is more of a specific guide for people who want
 There is a lot of hate around mouse acceleration, one of the biggest reasons it is hated is that it can not be used to "Build Muscle Memory" and that it will cause inconsistency in your aim. I am not going to go super in depth on the down sides or the positives of mouse accel because there are plenty of videos about that already which I will link at the bottom of this guide.
 
 One of the biggest reasons there is a lot of hate around this topic is the fact that the windows accel graph is so bad, and I will attach an image below to show you.   
-![Windows10AccelGraph](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/Windows10AccelGraph.png) 
+![Windows10AccelGraph](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/Windows10AccelGraph.png)   
 Before I explain what this graph means, let me talk about the basics of mouse acceleration.   
 
 Mouse acceleration is in short term, a way for your mouse sensitivity to increase the faster you move. So for example if you are flicking in a game it will increase your sensitivity while you flick and then bring it back down to a low sense when you how fast you moves slow down.   
