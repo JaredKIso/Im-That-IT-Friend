@@ -37,7 +37,7 @@ This is my custom acceleration graph as I have made and tweaked and I am still t
 ## The End Goal
 The goal of this guide is to be able to get you the basic understanding of all of the settings on the left side:   
 
-![clipboard.png](inkdrop://file:Juh3s1cQc)   
+![clipboard.png](https://github.com/JaredKIso/Im-That-IT-Friend/blob/main/Guides/Misc%20Guides/RawAccelGuide/Sources/Media/clipboard.png)   
 (**These are the settings**)   
 
 * * *
